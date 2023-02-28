@@ -9,12 +9,12 @@ body {
 
 #nombre{
   text-align: justify;
-  font-size: 4vw;
+  font-size: xx-large;
 }
 
 #descripNombre{
-  text-align: justify;
-  font-size: 2vw;
+  text-align: left;
+  font-size:large;
 }
 
 .fila{
