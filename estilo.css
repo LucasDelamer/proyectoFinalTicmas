@@ -7,6 +7,16 @@ body {
     color: black;
 }
 
+#nombre{
+  text-align: justify;
+  font-size: 4vw;
+}
+
+#descripNombre{
+  text-align: justify;
+  font-size: 2vw;
+}
+
 .fila{
     border-radius: 15px;
 }  
